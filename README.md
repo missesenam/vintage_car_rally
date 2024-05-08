@@ -1,2 +1,2 @@
 # rally_project
- website for rally
+  1st school project
